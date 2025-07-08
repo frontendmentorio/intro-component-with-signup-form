@@ -13,17 +13,17 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Red: hsl(0, 100%, 74%) 
-- Green: hsl(154, 59%, 51%)
+- Red 400: hsl(0, 100%, 74%) 
+- Green 400: hsl(154, 59%, 51%)
 
 ### Accent
 
-- Blue: hsl(248, 32%, 49%)
+- Purple 700: hsl(248, 32%, 49%)
 
 ### Neutral
 
-- Dark Blue: hsl(249, 10%, 26%) 
-- Grayish Blue: hsl(246, 25%, 77%)
+- Gray 900: hsl(249, 10%, 26%) 
+- Purple 350: hsl(246, 25%, 77%)
 
 ## Typography
 
